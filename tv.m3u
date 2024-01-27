@@ -33,13 +33,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=521
 http://rftv.wtf/tp/rjiptv.mpd?contentID=380
 
 
-#EXTINF:-1 tvg-id="155881" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="ASIA | TAMIL", TAMIL| SUN MUSIC HD
-http://egaletv.cc:8080/100823belge/s5kc2x99xq/513406
-
-#EXTINF:-1 tvg-id="155892" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="ASIA | TAMIL", TAMIL| ADHTIYA TV
-http://egaletv.cc:8080/100823belge/s5kc2x99xq/513424
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=496&amp;key
 #EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
