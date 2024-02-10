@@ -22,10 +22,9 @@ Content-Location: https://peakytataplay.pages.dev/TataPlay/
 x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #TATA PLAY
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=521&amp;key
+
 #EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=521
+http://mag.trexlive.me:80/Michael88/Michael88/155880
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&amp;key
