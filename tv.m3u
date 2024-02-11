@@ -39,11 +39,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=496
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=257&amp;key
-#EXTINF:-1 tvg-id=ts257 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png" group-title="Tamil",Zee Tamil
-http://rftv.wtf/tp/rjiptv.mpd?contentID=257
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=608&amp;key
 #EXTINF:-1 tvg-id=ts608 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tamil",Zee Tamil HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=608
@@ -243,10 +238,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=184
 #EXTINF:-1 tvg-id=ts413 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Knowledge",Nat Geo Wild HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=413
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&amp;key
-#EXTINF:-1 tvg-id="ts114" group-title="Kids  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://rftv.wtf/tp/rjiptv.mpd?contentID=114
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=587&amp;key
