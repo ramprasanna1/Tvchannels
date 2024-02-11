@@ -330,7 +330,11 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=562
 #EXTINF:-1 tvg-id="ts32" group-title="Movies  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",SONY PIX HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=32
 
+#EXTINF:-1 tvg-id=StarMovies.in tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="Tamil",Star Movie HD
+http://mag.trexlive.me:80/Michael88/Michael88/282639
 
+#EXTINF:-1 tvg-id=StarMoviesSelect.in tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="Tamil",Star Movie Select HD
+http://mag.trexlive.me:80/Michael88/Michael88/155729
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=1167
