@@ -252,6 +252,9 @@ http://xtv.ooo:8080/214535413/121315126/150480
 #EXTINF:-1 tvg-id=disneychannel.in tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Tamil",DISNEY
 http://xtv.ooo:8080/214535413/121315126/167551
 
+#EXTINF:-1 tvg-id=tg vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Tamil",DISNEY XD
+https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=138&amp;key
 #EXTINF:-1 tvg-id="ts138" group-title="Kids  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",Nick
