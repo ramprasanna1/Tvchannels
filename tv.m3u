@@ -23,8 +23,8 @@ x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #TATA PLAY
 
 
-#EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
-http://mitvpro.online:88/02025685921199/8999991992/100157
+#EXTINF:-1 tvg-id=SunTV.in tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/155880
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&amp;key
