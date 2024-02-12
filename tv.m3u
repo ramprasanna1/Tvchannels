@@ -248,13 +248,16 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=413
 #EXTINF:-1 tvg-id="ts587" group-title="Kids  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
 http://rftv.wtf/tp/rjiptv.mpd?contentID=587
 
+#EXTINF:-1 tvg-id="587" tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids",Hungama
+http://xtv.ooo:8080/00990/00990/150480
 
-#EXTINF:-1 tvg-id=hungama.in tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AHungama_TV.png&psig=AOvVaw0ApwCbsqIPYDds6iPLAst1&ust=1707803993369000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiKmdLZpYQDFQAAAAAdAAAAABAE" group-title="Tamil",Hungama
+#EXTINF:-1 tvg-id=hungama.in tvg-logo="" group-title="Tamil",Hungama
 http://xtv.ooo:8080/214535413/121315126/150480
 
-
-#EXTINF:-1 tvg-id=disneychannel.in tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Tamil",DISNEY
-http://xtv.ooo:8080/214535413/121315126/167551
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=114
+#EXTINF:-1 tvg-id="114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",Disney
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
 #EXTINF:-1 tvg-id=tg vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Tamil",DISNEY XD
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
@@ -277,9 +280,9 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=144
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=238&amp;key
-#EXTINF:-1 tvg-id="ts238" group-title="Kids  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network
-http://rftv.wtf/tp/rjiptv.mpd?contentID=238
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=238
+#EXTINF:-1 tvg-id="238" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids",Cartoon Network
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=681&amp;key
