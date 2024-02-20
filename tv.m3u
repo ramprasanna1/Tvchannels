@@ -41,12 +41,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=380
 #EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=496
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=608&amp;key
-#EXTINF:-1 tvg-id=ts608 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tamil",Zee Tamil HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=608
-
 #EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
 https://bolt.toxic-gang.xyz/apiz/z5/index.php?id=0-9-zeetamil
 
