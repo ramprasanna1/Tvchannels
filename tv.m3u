@@ -54,6 +54,14 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=418
 #EXTINF:-1 tvg-id=ts674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",Colors Tamil HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=674
 
+#EXTINF: -1 tvg-id="ext" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100167
+
+#EXTINF: -1 tvg-id="ext" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
+
+#EXTINF: -1 tvg-id="ext" group-title="AS TAMIL", TAMIL: ADHTIYA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=200&amp;key
@@ -102,7 +110,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=611
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=797&amp;key
 #EXTINF:-1 tvg-id=ts797 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="Tamil",Zee Thirai
-http://rftv.wtf/tp/rjiptv.mpd?contentID=797
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100171
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=201&amp;key
@@ -336,7 +344,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=562
 http://rftv.wtf/tp/rjiptv.mpd?contentID=32
 
 #EXTINF:-1 tvg-id=StarMovies.in tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="Tamil",Star Movie HD
-http://mag.trexlive.me:80/Michael88/Michael88/282639
+http://starshare.live:8080/live/53rumaiz87/7567new977/979.ts
 
 #EXTINF:-1 tvg-id=StarMoviesSelect.in tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="Tamil",Star Movie Select HD
 http://mag.trexlive.me:80/Michael88/Michael88/155729
