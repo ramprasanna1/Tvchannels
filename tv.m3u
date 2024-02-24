@@ -28,7 +28,7 @@ x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
 
 #EXTINF:-1 tvg-id=SunTV.in tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
-http://mag.trexlive.me:80/Michael88/Michael88/155880
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&amp;key
