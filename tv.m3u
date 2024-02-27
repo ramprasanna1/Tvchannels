@@ -3,7 +3,7 @@
 #EXTM3U  x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
 #TATA PLAY
 
-#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Sun%20TV%20HD.webp",SUN TV HD 
+#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",SUN TV HD 
 https://edge1.laotv.la/live/SunTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
