@@ -3,6 +3,8 @@
 #EXTM3U  x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
 #TATA PLAY
 
+#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Sun%20TV%20HD.webp",SUN TV HD 
+https://edge1.laotv.la/live/SunTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4AzUMX/DT6/zGTEQ+7T0/w","kid":"vq6YQlzzW4S8Br47QMnyyg"}],"type":"temporary"}
