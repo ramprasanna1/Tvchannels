@@ -10,7 +10,17 @@ https://edge1.laotv.la/live/SunTV/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
 http://sonyiptv.net:8080/3333/3333/276937
 
+#EXTINF:-1 group-title="Tamil" ,Sun Music 
+http://sonyiptv.net:8080/3333/3333/276941
 
+#EXTINF:-1 group-title="Tamil" ,Vijay 
+http://sonyiptv.net:8080/3333/3333/276943
+
+#EXTINF:-1 group-title="Tamil" ,Vijay Super
+http://sonyiptv.net:8080/3333/3333/276946
+
+#EXTINF:-1 group-title="Tamil" ,Zee Tamil Fhd
+http://sonyiptv.net:8080/3333/3333/276959
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Rvc2lRpCWiStjKs8idwpCQ","kid":"KLR5oLF9XBGr5tYw9H45ig"}],"type":"temporary"}
