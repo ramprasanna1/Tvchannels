@@ -175,7 +175,7 @@ https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NVP2Nf2xs/AG2a647XNB6w","kid":"9YFCTBTjXu6STwoLnSLIHA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts681" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network HD+
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+http://opplex.tv:8080/live/fjiu4509340912/vmzx@7700552/153154.ts
 
 #EXTINF:-1 tvg-id="ts45" group-title="Kids  " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY!
 http://103.174.195.4:8000/play/a00s
