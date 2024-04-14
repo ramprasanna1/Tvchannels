@@ -150,10 +150,9 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manife
 #EXTINF:-1 tvg-id="ts220" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png",Puthiya Thalaimurai
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IDFSFRoTnHAMcljmKpgrpw","kid":"ULbMSBf5U4yRbOLhGSKBYA"}],"type":"temporary"}
+
 #EXTINF:-1 tvg-id="ts587" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=587
 
 #EXTINF:-1 tvg-id="587" tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids",Hungama
 http://103.174.195.4:8000/play/a00o
