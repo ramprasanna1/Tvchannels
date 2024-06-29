@@ -25,9 +25,8 @@ http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083247.m3u8
 http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083148.m3u8
 
 
-#EXTINF:-1 tvg-id="ts114" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083278.m3u8
-
+#EXTINF:-1 tvg-id="ts114" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiu28T3UqQdIpsNvjO5rS9C34vTNvQxDESgg&s",HUNGAMA
+http://103.131.214.129:9985/stream/channel/c9f30c14011704a865861e0a072d431f?profile=pass
 
 #local
 
