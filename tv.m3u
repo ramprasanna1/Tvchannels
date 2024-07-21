@@ -4,11 +4,9 @@
 #TATA PLAY
 
 #EXTINF:-1 group-title="Indian Regional" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",SUN TV HD 
-http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082970.m3u8
-
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
-http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082998.m3u8
-
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
 
 #EXTINF:-1 group-title="Tamil" ,Sun Music
 http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083071.m3u8
