@@ -13,7 +13,7 @@ http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083071.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" ,Vijay Super
-http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083255.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=14505&deviceMac=00:1A:79:A7:53:75
  
 #EXTINF:-1 tvg-id="AdithyaTV.in" tvg-name="IND-tam: Adithya TV" tvg-logo="https://iptvboss.xyz/logos/India/AdithyaTV.in.png" group-title="Indian TV",IND-tam: Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43405&uid=5353&deviceMac=00:1A:79:17:D4:65
